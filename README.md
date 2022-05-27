@@ -8,7 +8,7 @@ I will always remember the good times by re-publishing here what's been said pub
 
 &mdash; Antony
 
-#### CouchCMS Forum I
+---
 
 Thank you, Trendoman. I think I understand what you mean. Good idea. <br>
 BEAUTIFUL! It worked. &mdash; [@tshirts](https://www.couchcms.com/forum/viewtopic.php?f=4&t=12726#p35970)
@@ -179,3 +179,57 @@ Thanks againg trendoman :) just amazing work. This helped me ALOT  &mdash; [@kim
 That is indeed a good trick 8-) Thank you for the help!  &mdash; [@samverdyck](https://www.couchcms.com/forum/viewtopic.php?f=4&t=9832#p22395)
 
 Will update the GitHub repository too shortly. Thanks for your help &mdash; [@KK](https://www.couchcms.com/forum/viewtopic.php?f=4&t=9649#p21525)
+
+
+
+
+Thank you for your reply. I check your posts every day and they also help me too. Thank you again.  &mdash; [@gem3](https://www.couchcms.com/forum/viewtopic.php?f=2&t=12692#p35840)
+
+wow, Trendoman, yes it does help. I am able to load it now. Thank you very much. &mdash; [@Toheeb](https://www.couchcms.com/forum/viewtopic.php?f=2&t=11700&start=10#p32618)
+
+@trendoman yes that works nicely, thanks!  &mdash; [@NickW](https://www.couchcms.com/forum/viewtopic.php?f=2&t=12668#p35715)
+
+Thanks trendoman. It worked perfectly.  &mdash; [@adimpressions](https://www.couchcms.com/forum/viewtopic.php?f=2&t=12564#p35388)
+
+Thank you so much trendomon, just implemented it and works perfect. Love the drag and drop feature, thank you again &mdash; [@ianhaney50](https://www.couchcms.com/forum/viewtopic.php?f=2&t=12566#p35363)
+
+Thank you for your new addon! &mdash; [@gem3](https://www.couchcms.com/forum/viewtopic.php?f=2&t=12535&p=35287#p35341)
+
+Thanks trendoman, the smart embed looks interesting. &mdash; [@whitewater456](https://www.couchcms.com/forum/viewtopic.php?f=2&t=12561#p35324)
+
+That sounds a really good idea! Thanks - exactly the sort of creative thought process I was hoping someone would come up with!  &mdash; [@daldred](https://www.couchcms.com/forum/viewtopic.php?f=2&t=12521#p35098)
+
+Thank you very much for your extensive answer, I didn't expect that - much appreciated!  &mdash; [@quickie](https://www.couchcms.com/forum/viewtopic.php?f=2&t=12473&p=34948#p34949)
+
+Thank you for the reply and advice, appreciate it. Will keep that all in mind  &mdash; [@ianhaney50](https://www.couchcms.com/forum/viewtopic.php?f=2&t=12455#p34836)
+
+Thank you, that looks perfect and integrated it and looks exactly what I need  &mdash; [@ianhaney50](https://www.couchcms.com/forum/viewtopic.php?f=2&t=12195#p33717)
+
+Many thanks. Just the information I needed. Very grateful!  &mdash; [@oldcelt](https://www.couchcms.com/forum/viewtopic.php?f=2&t=12021#p32865)
+
+Absolutely perfect, thank you!!  &mdash; [@CouchBob](https://www.couchcms.com/forum/viewtopic.php?f=2&t=11472#p30550)
+
+SUPER COOL !!!!  &mdash; [@andrejprus](https://www.couchcms.com/forum/viewtopic.php?f=2&t=8773&p=30502#p30507)
+
+Many thanks @trendoman :) :) :) :) :) Very easy and my admin panel is so clear now! Thanks for your help and answer me so fast. Really nice work!  &mdash; [@kpadron](https://www.couchcms.com/forum/viewtopic.php?f=2&t=11271#p29643)
+
+Thanks for pointing me to the right direction.  &mdash; [@cosmicmind](https://www.couchcms.com/forum/viewtopic.php?f=2&t=11068#p28663)
+
+Thanks a lot @trendoman, this worked, and thanks for the explanation.!  &mdash; [@cosmicmind](https://www.couchcms.com/forum/viewtopic.php?f=2&t=11066#p28653)
+
+Hey trendoman. Thats working. You are great :D Thank you so much  &mdash; [@gokmenbekar](https://www.couchcms.com/forum/viewtopic.php?f=2&t=10511#p26055)
+
+
+
+
+
+
+
+A very useful thing to get quick answers for many questions. In some cases, much faster than forum. Especially when it is difficult to formulate. Anton generously shares his experience with Couch. :D And of course the live chat is really live!
+
+A big thanks to trendoman for his great help via skype. <br>
+By the way this is Unofficial help - given generously by a CouchCMS user. trendoman is NOT the developer - so be pleasant when you chat with him :-)
+
+hi... thanksss so much for this skype online support.. This really help me so much.. Very fast reply and can solved the issue strictly
+
+I got some really quick and useful help on the chat room. Special thanks to Trendoman
