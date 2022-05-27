@@ -233,3 +233,12 @@ By the way this is Unofficial help - given generously by a CouchCMS user. trendo
 hi... thanksss so much for this skype online support.. This really help me so much.. Very fast reply and can solved the issue strictly
 
 I got some really quick and useful help on the chat room. Special thanks to Trendoman
+
+
+## Support
+
+Ask any question any time &mdash; <anton.cms@ya.ru>, <tony.smirnov@gmail.com> &mdash; Anton S aka Trendoman
+
+My CouchCMS forum posts: https://www.couchcms.com/forum/search.php?author_id=18478&sr=posts
+
+New Telegram channel: https://t.me/couchcms
