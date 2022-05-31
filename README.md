@@ -237,7 +237,12 @@ I got some really quick and useful help on the chat room. Special thanks to Tren
 
 ## Support
 
-Ask any question any time &mdash; <anton.cms@ya.ru>, <tony.smirnov@gmail.com> &mdash; Anton S aka Trendoman
+Donations are desperately welcomed to keep up with support requests; to continue receiving your [thankyou's](https://github.com/trendoman/Dignotas) &mdash;
+
+**Bitcoin**: bc1qsl2tulmsjcvpkegepeunmumz599yz0lhuktdjt
+
+Ask any question via forum or email &mdash; <anton.cms@ya.ru>, <tony.smirnov@gmail.com> &mdash; Anton S aka Trendoman<br>
+You'll get *a good meaningful* reply.
 
 My CouchCMS forum posts: https://www.couchcms.com/forum/search.php?author_id=18478&sr=posts
 
