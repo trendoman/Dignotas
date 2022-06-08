@@ -10,6 +10,8 @@ I will always remember the good times by re-publishing here what's been said pub
 
 ---
 
+That was exactly what I need, thank you so much! [@bbiddiscombe](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13238&p=38043#p38043)
+
 Yup. This worked. Thanks a lot. [@A H](https://t.me/couchcms_chat/53)
 
 Thank you, Trendoman. I think I understand what you mean. Good idea. <br>
