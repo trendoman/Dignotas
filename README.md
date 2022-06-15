@@ -11,6 +11,8 @@ I will always remember the good times by re-publishing here what's been said pub
 ---
 
 
+@trendoman, I will try out your suggestion too and see how it goes. Thank you  — [adimpressions](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13240&p=38054#p38054)
+
 Well I'll be damned, that did it....why didn't I think to try this? Thank you! — [dbfa](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13241&p=38064#p38064)
 
 Thanks trendoman, it worked perfectly. — [adimpressions](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13214#p38046)
