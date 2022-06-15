@@ -10,6 +10,7 @@ I will always remember the good times by re-publishing here what's been said pub
 
 ---
 
+Thank you Anton (and Simon) ☺ — [mwlarkin1](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13236&p=38030&hilit=thank#p38030)
 
 @trendoman, I will try out your suggestion too and see how it goes. Thank you  — [adimpressions](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13240&p=38054#p38054)
 
