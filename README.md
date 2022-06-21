@@ -10,6 +10,8 @@ I will always remember the good times by re-publishing here what's been said pub
 
 ---
 
+Thanks for the idea. — [olliwalli](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13245#p38097)
+
 Thanks again trendoman, your work & support have helped me no end. — [Gwil](https://www.couchcms.com/forum/viewtopic.php?f=8&t=10644&start=10#p32703)
 
 Thank you @trendoman for your respons. It's good to know there is a solution for this. — [atisz](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13109&p=37468#p37468)
