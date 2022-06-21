@@ -10,7 +10,11 @@ I will always remember the good times by re-publishing here what's been said pub
 
 ---
 
-Thank you Anton (and Simon) ☺ — [mwlarkin1](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13236&p=38030&hilit=thank#p38030)
+Thanks again trendoman, your work & support have helped me no end. — [Gwil](https://www.couchcms.com/forum/viewtopic.php?f=8&t=10644&start=10#p32703)
+
+Thank you @trendoman for your respons. It's good to know there is a solution for this. — [atisz](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13109&p=37468#p37468)
+
+Thank you Anton (and Simon) ☺ — [mwlarkin1](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13236&p=38030#p38030)
 
 @trendoman, I will try out your suggestion too and see how it goes. Thank you  — [adimpressions](https://www.couchcms.com/forum/viewtopic.php?f=4&t=13240&p=38054#p38054)
 
